@@ -1,9 +1,9 @@
-# EE4C16 - Self Driving Car Lab
+# Self Driving Car Lab
 
 
 ## Overview
 
-This lab is based on Udacity's [self driving car
+This is based on Udacity's [self driving car
 simulator](https://github.com/udacity/self-driving-car-sim), which is a nice
 testbed for training an autonomous car using Convolutional Neural Networks.
 
@@ -17,7 +17,7 @@ clusters and train a CNN to predict the steering angle command from the front
 view image alone. Thus, the input of your CNN is an image and the output is the
 steering angle.
 
-You will then download back the trained model onto your lab machine so that you
+Then download back the trained model onto lab machine so that you
 can run the car simulation in autonomous mode.
 
 
