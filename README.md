@@ -1,4 +1,4 @@
-# Self Driving Car Lab
+# Self Driving Car
 
 
 ## Overview
